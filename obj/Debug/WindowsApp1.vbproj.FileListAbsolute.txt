@@ -1,0 +1,13 @@
+G:\C# test\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+G:\C# test\WindowsApp1\bin\Debug\WindowsApp1.exe
+G:\C# test\WindowsApp1\bin\Debug\WindowsApp1.pdb
+G:\C# test\WindowsApp1\bin\Debug\WindowsApp1.xml
+G:\C# test\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+G:\C# test\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+G:\C# test\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+G:\C# test\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+G:\C# test\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+G:\C# test\WindowsApp1\obj\Debug\WindowsApp1.exe
+G:\C# test\WindowsApp1\obj\Debug\WindowsApp1.xml
+G:\C# test\WindowsApp1\obj\Debug\WindowsApp1.pdb
+G:\C# test\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
